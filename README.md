@@ -17,3 +17,5 @@ Edit Item:
   2. Edit the item.
   3. Click on "Save"
   4. User should see the edited item on the list at same location.
+
+![Alt tag] (https://github.com/hshukla/SimpleToDo/blob/master/SimpleTodoApp.gif)
